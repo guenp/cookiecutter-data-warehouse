@@ -34,13 +34,13 @@ jobs:
         cookiecutter --no-input cookiecutter-data-warehouse
 
     - name: Install dependencies
-      working-directory: ./ducky_data_warehouse/book
+      working-directory: ../ducky_data_warehouse/book
       run: |
         pip install -r requirements.txt
 
     # Build the book
     - name: Build the book
-      working-directory: ./ducky_data_warehouse/book
+      working-directory: ../ducky_data_warehouse/book
       run: |
         jupyter-book build book
 
@@ -48,7 +48,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
       with:
-        path: "./ducky_data_warehouse/book/_build/html"
+        path: "../ducky_data_warehouse/book/_build/html"
 
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
