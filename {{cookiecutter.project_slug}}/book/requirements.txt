@@ -1,4 +1,5 @@
 duckdb
+magic-duckdb
 pandas
 plotly
 jupyter
