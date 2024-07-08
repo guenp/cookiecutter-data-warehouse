@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: 1_example_ducks/2_summary
+  sections:
+  - file: 1_example_ducks/1_get_ducks
+- file: 2_example_bees/2_summary
+  sections:
+  - file: 2_example_bees/1_get_bees
+- file: datasets

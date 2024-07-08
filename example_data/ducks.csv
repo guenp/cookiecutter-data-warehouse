@@ -1,0 +1,140 @@
+name,genus,author,year,extinct
+Mandarin duck,Aix galericulata,Linnaeus,1758,0
+Wood duck,Aix sponsa,Linnaeus,1758,0
+Egyptian goose,Alopochen aegyptiaca,Linnaeus,1766,0
+Brazilian teal,Amazonetta brasiliensis,J. F. Gmelin,1789,0
+Northern pintail,Anas acuta,Linnaeus,1758,0
+Andaman teal,Anas albogularis,Hume,1873,0
+Andean teal,Anas andium,P. L. Sclater & Salvin,1873,0
+Auckland teal,Anas aucklandica,G. R. Gray,1844,0
+White-cheeked pintail,Anas bahamensis,Linnaeus,1758,0
+Bernier's teal,Anas bernieri,Hartlaub,1860,0
+Cape teal,Anas capensis,J. F. Gmelin,1789,0
+Green-winged teal,Anas carolinensis,J. F. Gmelin,1789,0
+Chestnut teal,Anas castanea,Eyton,1838,0
+Brown teal,Anas chlorotis,G. R. Gray,1845,0
+Eurasian teal,Anas crecca,Linnaeus,1758,0
+Mexican duck,Anas diazi,Ridgway,1886,0
+Eaton's pintail,Anas eatoni,Sharpe,1875,0
+Red-billed teal,Anas erythrorhyncha,J. F. Gmelin,1789,0
+Yellow-billed teal,Anas flavirostris,Vieillot,1816,0
+Mottled duck,Anas fulvigula,Ridgway,1874,0
+Yellow-billed pintail,Anas georgica,J. F. Gmelin,1789,0
+Sunda teal,Anas gibberifrons,S. Müller,1842,0
+Grey teal,Anas gracilis,Buller,1869,0
+Laysan duck,Anas laysanensis,Rothschild,1892,0
+Philippine duck,Anas luzonica,Fraser,1839,0
+Meller's duck,Anas melleri,P. L. Sclater,1865,0
+Campbell teal,Anas nesiotis,J.,H. Fleming,1935
+Mallard,Anas platyrhynchos,Linnaeus,1758,0
+Indian spot-billed duck,Anas poecilorhyncha,J. R. Forster,1781,0
+American black duck,Anas rubripes,Brewster,1902,0
+African black duck,Anas sparsa,Eyton,1838,0
+Pacific black duck,Anas superciliosa,J. F. Gmelin,1789,0
+Mascarene teal,Anas theodori,E. Newton & Gadow,1893,1
+Yellow-billed duck,Anas undulata,C. F. Dubois,1838,0
+Hawaiian duck,Anas wyvilliana,P. L. Sclater,1878,0
+Eastern spot-billed duck,Anas zonorhyncha,Swinhoe,1866,0
+White-winged duck,Asarcornis scutulata,S. Müller,1842,0
+Lesser scaup,Aythya affinis,Eyton,1838,0
+Redhead,Aythya americana,Eyton,1838,0
+Hardhead,Aythya australis,Eyton,1838,0
+Baer's pochard,Aythya baeri,Radde,1863,0
+Ring-necked duck,Aythya collaris,Donovan,1809,0
+Common pochard,Aythya ferina,Linnaeus,1758,0
+Tufted duck,Aythya fuligula,Linnaeus,1758,0
+Madagascar pochard,Aythya innotata,Salvadori,1894,0
+Greater scaup,Aythya marila,Linnaeus,1761,0
+New Zealand scaup,Aythya novaeseelandiae,J. F. Gmelin,1789,0
+Ferruginous duck,Aythya nyroca,Güldenstädt,1770,0
+Canvasback,Aythya valisineria,A. Wilson,1814,0
+Musk duck,Biziura lobata,Shaw,1796,0
+Brant,Branta bernicla,Linnaeus,1758,0
+Nene,Branta sandvicensis,Vigors,1834,0
+Bufflehead,Bucephala albeola,Linnaeus,1758,0
+Common goldeneye,Bucephala clangula,Linnaeus,1758,0
+Barrow's goldeneye,Bucephala islandica,J. F. Gmelin,1789,0
+Muscovy duck,Cairina moschata,Linnaeus,1758,0
+Ringed teal,Callonetta leucophrys,Vieillot,1816,0
+Labrador duck,Camptorhynchus labradorius,J. F. Gmelin,1789,1
+Finsch's duck,Chenonetta finschi,Van Beneden,1875,1
+Australian wood duck,Chenonetta jubata,Latham,1801,0
+Long-tailed duck,Clangula hyemalis,Linnaeus,1758,0
+West Indian whistling duck,Dendrocygna arborea,Linnaeus,1758,0
+Wandering whistling duck,Dendrocygna arcuata,Horsfield,1824,0
+Black-bellied whistling duck,Dendrocygna autumnalis,Linnaeus,1758,0
+Fulvous whistling duck,Dendrocygna bicolor,Vieillot,1816,0
+Plumed whistling duck,Dendrocygna eytoni,Eyton,1838,0
+Spotted whistling duck,Dendrocygna guttata,Schlegel,1866,0
+Lesser whistling duck,Dendrocygna javanica,Horsfield,1821,0
+White-faced whistling duck,Dendrocygna viduata,Linnaeus,1766,0
+Black-headed duck,Heteronetta atricapilla,Merrem,1841,0
+Harlequin duck,Histrionicus histrionicus,Linnaeus,1758,0
+Blue duck,Hymenolaimus malacorhynchos,J. F. Gmelin,1789,0
+Hooded merganser,Lophodytes cucullatus,Linnaeus,1758,0
+Crested duck,Lophonetta specularioides,P. P. King,1828,0
+Pink-eared duck,Malacorhynchus membranaceus,Latham,1801,0
+American wigeon,Mareca americana,J. F. Gmelin,1789,0
+Falcated duck,Mareca falcata,Georgi,1775,0
+Amsterdam wigeon,Mareca marecula,Olson & Jouventin,1996,1
+Eurasian wigeon,Mareca penelope,Linnaeus,1758,0
+Chiloé wigeon,Mareca sibilatrix,Poeppig,1829,0
+Gadwall,Mareca strepera,Linnaeus,1758,0
+Marbled duck,Marmaronetta angustirostris,Ménétries,1832,0
+Black scoter,Melanitta americana,Swainson,1832,0
+White-winged scoter,Melanitta deglandi,Bonaparte,1850,0
+Velvet scoter,Melanitta fusca,Linnaeus,1758,0
+Common scoter,Melanitta nigra,Linnaeus,1758,0
+Surf scoter,Melanitta perspicillata,Linnaeus,1758,0
+Stejneger's scoter,Melanitta stejnegeri,Ridgway,1887,0
+Torrent duck,Merganetta armata,Gould,1842,0
+Smew,Mergellus albellus,Linnaeus,1758,0
+Auckland Island merganser,Mergus australis,Hombron & Jacquinot,1841,1
+Common merganser,Mergus merganser,Linnaeus,1758,0
+Brazilian merganser,Mergus octosetaceus,Vieillot,1817,0
+Red-breasted merganser,Mergus serrator,Linnaeus,1758,0
+Scaly-sided merganser,Mergus squamatus,Gould,1864,0
+Southern pochard,Netta erythrophthalma,Wied-Neuwied,1833,0
+Rosy-billed pochard,Netta peposaca,Vieillot,1816,0
+Red-crested pochard,Netta rufina,Pallas,1773,0
+Masked duck,Nomonyx dominicus,Linnaeus,1766,0
+Blue-billed duck,Oxyura australis,Gould,1837,0
+Andean duck,Oxyura ferruginea,Eyton,1838,0
+Ruddy duck,Oxyura jamaicensis,J. F. Gmelin,1789,0
+White-headed duck,Oxyura leucocephala,Scopoli,1769,0
+Maccoa duck,Oxyura maccoa,Eyton,1838,0
+Lake duck,Oxyura vittata,Philippi,1860,0
+Steller's eider,Polysticta stelleri,Pallas,1769,0
+Hartlaub's duck,Pteronetta hartlaubii,Cassin,1860,0
+Radjah shelduck,Radjah radjah,Garnot & R. Lesson,1828,0
+Pink-headed duck,Rhodonessa caryophyllacea,Latham,1790,1
+Salvadori's teal,Salvadorina waigiuensis,Rothschild & E. Hartert,1894,0
+Knob-billed duck,Sarkidiornis melanotos,Pennant,1769,0
+Comb duck,Sarkidiornis sylvicola,H. Ihering & R. Ihering,1907,0
+Baikal teal,Sibirionetta formosa,Georgi,1775,0
+Spectacled eider,Somateria fischeri,J. F. Brandt,1847,0
+Common eider,Somateria mollissima,Linnaeus,1758,0
+King eider,Somateria spectabilis,Linnaeus,1758,0
+Northern shoveler,Spatula clypeata,Linnaeus,1758,0
+Cinnamon teal,Spatula cyanoptera,Vieillot,1816,0
+Blue-winged teal,Spatula discors,Linnaeus,1766,0
+Blue-billed teal,Spatula hottentota,Eyton,1838,0
+Red shoveler,Spatula platalea,Vieillot,1816,0
+Puna teal,Spatula puna,Tschudi,1844,0
+Garganey,Spatula querquedula,Linnaeus,1758,0
+Australasian shoveler,Spatula rhynchotis,Latham,1801,0
+Cape shoveler,Spatula smithii,E. Hartert,1891,0
+Silver teal,Spatula versicolor,Vieillot,1816,0
+Bronze-winged duck,Speculanas specularis,P. P. King,1828,0
+Freckled duck,Stictonetta naevosa,Gould,1841,0
+Falkland steamer duck,Tachyeres brachypterus,Latham,1790,0
+Chubut steamer duck,Tachyeres leucocephalus,Humphrey & Thompson,1981,0
+Flying steamer duck,Tachyeres patachonicus,P. P. King,1831,0
+Fuegian steamer duck,Tachyeres pteneres,J. R. Forster,1844,0
+South African shelduck,Tadorna cana,J. F. Gmelin,1789,0
+Crested shelduck,Tadorna cristata,Kuroda,1917,1
+Ruddy shelduck,Tadorna ferruginea,Pallas,1764,0
+Common shelduck,Tadorna tadorna,Linnaeus,1758,0
+Australian shelduck,Tadorna tadornoides,Jardine & Selby,1828,0
+Paradise shelduck,Tadorna variegata,J. F. Gmelin,1789,0
+White-backed duck,Thalassornis leuconotus,Eyton,1838,0
