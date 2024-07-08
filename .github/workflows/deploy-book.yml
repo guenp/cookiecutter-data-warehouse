@@ -28,8 +28,8 @@ jobs:
 
     # Run cookie cutter
     - name: Set up new project from cookie cutter
-      working-directory: .
       run: |
+        cd ..
         pip install cookiecutter
         cookiecutter --no-input cookiecutter-data-warehouse
 
