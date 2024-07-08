@@ -18,6 +18,7 @@ jobs:
     - uses: actions/checkout@v3
       with:
         repository: guenp/cookiecutter-data-warehouse
+        token: ${{ secrets.GH_PAT }}
 
     # Install dependencies
     - name: Set up Python 3.11
