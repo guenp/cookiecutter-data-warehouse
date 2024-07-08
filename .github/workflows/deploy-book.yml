@@ -42,7 +42,7 @@ jobs:
     - name: Build the book
       working-directory: ../ducky_data_warehouse/book
       run: |
-        jupyter-book build book
+        jupyter-book build .
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
