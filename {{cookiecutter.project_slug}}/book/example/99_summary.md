@@ -41,10 +41,8 @@ import plotly.offline as py
 from IPython.display import display
 
 df = con.sql("FROM duck_iris").df()
-fig1 = px.scatter(df, x="beak_width", y="beak_length", color="species", size="wing_length", width=700, height=500)
-fig2 = px.scatter(df, x="tarsus_length", y="tail_length", color="species", size="beak_width", width=700, height=500)
-display(fig1)
-display(fig2)
+fig = px.scatter(df, x="beak_length", y="tarsus_length", color="species", size="beak_width", width=700, height=500)
+fig
 ```
 
 ```{code-cell}
