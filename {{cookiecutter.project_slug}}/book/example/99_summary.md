@@ -29,8 +29,8 @@ import plotly.io as pio
 import plotly.express as px
 import plotly.offline as py
 
-fig = px.scatter(df, x="beak_width", y="beak_length", color="species", size="wing_length", width=700, height=500)
-fig
+fig = px.scatter_matrix(df, dimensions=["beak_width", "beak_length", "wing_length", "tail_length", "tarsus_length"], color="species", width=900, height=700)
+fig.show()
 ```
 
 ```{code-cell}
