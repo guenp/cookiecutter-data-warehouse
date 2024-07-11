@@ -1,8 +1,8 @@
 {
-    "full_name": "Daffy Duck",
-    "email": "daffyd@example.com",
-    "github_username": "daffyd",
-    "project_name": "Ducky Data Warehouse",
+    "full_name": "Duckie McDuckface",
+    "email": "guen@motherduck.com",
+    "github_username": "guenp",
+    "project_name": "Cookiecutter Data Warehouse",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
     "project_short_description": "Mini Data Warehouse for your data needs.",
     "pypi_username": "{{ cookiecutter.github_username }}",
