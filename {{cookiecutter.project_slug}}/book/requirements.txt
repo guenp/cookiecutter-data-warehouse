@@ -4,3 +4,4 @@ pandas
 plotly
 jupyter
 jupyter-book
+scikit-learn==1.5.1

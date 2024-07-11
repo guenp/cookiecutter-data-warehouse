@@ -4,9 +4,10 @@
 format: jb-book
 root: intro
 chapters:
-- file: 1_example_ducks/2_summary
+- file: 1_example_ducks/3_summary
   sections:
   - file: 1_example_ducks/1_get_ducks
+  - file: 1_example_ducks/2_predict_ducks
 - file: 2_example_bees/2_summary
   sections:
   - file: 2_example_bees/1_get_bees

@@ -41,3 +41,15 @@ import plotly.express as px
 fig = px.scatter_matrix(df, dimensions=["beak_width", "beak_length", "wing_length", "tail_length"], color="species")
 fig.show()
 ```
+
+
+```{code-cell}
+:tags: [remove-input]
+con.sql("""
+SELECT
+    COUNT(*) AS total_predictions,
+    SUM(CASE WHEN y = y_pred THEN 1 ELSE 0 END) AS correct_predictions,
+    CAST(SUM(CASE WHEN y = y_pred THEN 1 ELSE 0 END) AS FLOAT) / COUNT(*) AS accuracy
+FROM predictions;
+""").df()
+```
