@@ -28,9 +28,11 @@ df = con.sql("FROM duck_iris").df()
 import plotly.io as pio
 import plotly.express as px
 import plotly.offline as py
+from IPython.display import display
 
-fig = px.scatter_matrix(df, dimensions=["beak_width", "beak_length", "wing_length", "tail_length", "tarsus_length"], color="species", width=900, height=700)
-fig.show()
+df = con.sql("FROM duck_iris").df()
+fig = px.scatter(df, x="beak_length", y="tarsus_length", color="species", size="beak_width", width=700, height=500)
+fig
 ```
 
 ```{code-cell}
@@ -38,11 +40,9 @@ fig.show()
 import plotly.io as pio
 import plotly.express as px
 import plotly.offline as py
-from IPython.display import display
 
-df = con.sql("FROM duck_iris").df()
-fig = px.scatter(df, x="beak_length", y="tarsus_length", color="species", size="beak_width", width=700, height=500)
-fig
+fig = px.scatter_matrix(df, dimensions=["beak_width", "beak_length", "wing_length", "tail_length", "tarsus_length"], color="species", width=900, height=700)
+fig.show()
 ```
 
 ```{code-cell}
