@@ -16,13 +16,7 @@ kernelspec:
 
 This is an auto-generated Jupyter Book cover page as part of the Mini Data Warehouse cookie cutter. You can edit this as needed.
 
-To get started, take a look at the notebooks in the `example` project. To run and edit the notebooks, start a Jupyter Lab environment.
-
-```bash
-jupyter lab
-```
-
-To get started with your own project, edit the `example` project or create your own folder in the `/book` directory.
+To get started, take a look at the notebooks in the `example` "Ducks" project.
 
 ```{tableofcontents}
 ```
