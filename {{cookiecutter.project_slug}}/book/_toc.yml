@@ -9,4 +9,5 @@ chapters:
   - file: example/1_get_ducks
   - file: example/2_predict_ducks
   - file: example/3_pca_ducks
+  - file: example/4_share_data
   - file: example/datasets

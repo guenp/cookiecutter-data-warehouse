@@ -41,6 +41,8 @@ jobs:
     # Build the book
     - name: Build the book
       working-directory: ../ducky-data-warehouse/book
+      env:
+        MOTHERDUCK_TOKEN: ${{ secrets.MOTHERDUCK_TOKEN }}
       run: |
         jupyter-book build .
 

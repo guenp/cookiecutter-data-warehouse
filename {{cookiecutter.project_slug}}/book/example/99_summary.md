@@ -55,3 +55,14 @@ SELECT
 FROM predictions;
 """).df()
 ```
+
+Data share
+
+```{code-cell}
+:tags: [remove-input]
+con = duckdb.connect("md:")
+
+shares = con.sql("LIST SHARES").df()
+share = con.sql("SELECT share_link AS share_url FROM shares WHERE share_name = 'my_share'").df()
+share.share_url.iloc[0]
+```
