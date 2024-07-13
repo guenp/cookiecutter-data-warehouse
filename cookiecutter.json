@@ -1,7 +1,7 @@
 {
     "full_name": "Duckie McDuckface",
-    "email": "guen@motherduck.com",
-    "github_username": "guenp",
+    "email": "your-email-address@example.com",
+    "github_username": "your_github_handle",
     "project_name": "Ducky Data Warehouse",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-').replace('_', '-') }}",
     "project_short_description": "Mini Data Warehouse for your data needs.",
