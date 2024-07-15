@@ -14,7 +14,7 @@ kernelspec:
 
 # Ducks
 
-This example shows how to plot a ducky dataset (similar to the [Iris example](https://jupyterbook.org/en/stable/interactive/interactive.html#plotly)). The data is stored in DuckDB.
+This example shows how to plot a ducky dataset (similar to the [Iris example](https://jupyterbook.org/en/stable/interactive/interactive.html#plotly)). You can download the database here: {Download}`my-data.duckdb<data/my-data.duckdb>`.
 
 ```{code-cell}
 :tags: [remove-cell]
