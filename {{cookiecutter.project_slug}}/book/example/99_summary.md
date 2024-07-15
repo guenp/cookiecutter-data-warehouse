@@ -14,7 +14,12 @@ kernelspec:
 
 # Ducks
 
-This example shows how to plot a ducky dataset (similar to the [Iris example](https://jupyterbook.org/en/stable/interactive/interactive.html#plotly)). You can download the database here: {Download}`my-data.duckdb<data/my-data.duckdb>`.
+This example shows how to plot a ducky dataset (similar to the [Iris example](https://jupyterbook.org/en/stable/interactive/interactive.html#plotly)).
+
+You can download the data here:
+
+* {Download}`my-data.duckdb<data/my-data.duckdb>`
+* {Download}`duck_iris.parquet<data/duck_iris.parquet>`
 
 ```{code-cell}
 :tags: [remove-cell]
