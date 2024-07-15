@@ -30,6 +30,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  extra_footer: Made with 🦆 using <a href="https://github.com/guenp/cookiecutter-data-warehouse">cookiecutter-data-warehouse</a>
 
 # Show interactive plots
 sphinx:

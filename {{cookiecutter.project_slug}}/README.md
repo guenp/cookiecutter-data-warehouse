@@ -2,4 +2,4 @@
 
 {{ cookiecutter.project_short_description }}
 
-Powered by DuckDB 🦆 with [Cookiecutter Data Warehouse](https://github.com/guenp/cookiecutter-data-warehouse)
+Powered by DuckDB 🦆 Made with [Cookiecutter Data Warehouse](https://github.com/guenp/cookiecutter-data-warehouse)
