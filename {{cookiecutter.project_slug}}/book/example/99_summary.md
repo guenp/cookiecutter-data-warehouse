@@ -19,7 +19,7 @@ This example shows how to plot a ducky dataset (similar to the [Iris example](ht
 ```{code-cell}
 :tags: [remove-cell]
 import duckdb
-con = duckdb.connect("my-data.duckdb")
+con = duckdb.connect("data/my-data.duckdb")
 df = con.sql("FROM duck_iris").df()
 ```
 
